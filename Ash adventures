@@ -1,0 +1,6 @@
+echo "# Pokemon-complete" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Pruthviraj19/Pokemon-complete.git
+git push -u origin master
